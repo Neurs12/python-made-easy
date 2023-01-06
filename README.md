@@ -30,4 +30,4 @@ Mặc dù đều là ngôn ngữ lập trình bậc cao, nhưng Python có nhi�
 
 Nhưng không thể không kể đến một số nhược điểm:
 - Vì là một ngôn ngữ lập trình sử dụng trình thông dịch nên tốc độ xử lí của Python sẽ chậm hơn RẤT NHIỀU so với Pascal.
-- Sử dụng cấu trúc cách hàng, phân chia bậc của Python, không cẩn thận sẽ bị sai.
+- Cấu trúc tuy dễ hiểu nhưng nếu không cẩn thận sẽ bị sai.

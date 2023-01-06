@@ -31,3 +31,18 @@ Mặc dù đều là ngôn ngữ lập trình bậc cao, nhưng Python có nhi�
 Nhưng không thể không kể đến một số nhược điểm:
 - Vì là một ngôn ngữ lập trình sử dụng trình thông dịch nên tốc độ xử lí của Python sẽ chậm hơn RẤT NHIỀU so với Pascal.
 - Cấu trúc tuy dễ hiểu nhưng nếu không cẩn thận sẽ dễ xảy ra lỗi.
+
+## 2. Cài đặt Python và trình viết code
+### Cài đặt trình thông dịch Python:
+Vào [trang Python](https://www.python.org/downloads/) rồi tải về bộ cài đặt.
+
+Sau đó, mở chạy bộ cài đặt, chọn mục "Add python.exe to PATH" rồi chọn "Install Now"
+![Setup Python](https://user-images.githubusercontent.com/31346263/210932409-cddc3d17-282a-4353-ae1b-0d1a05308436.png)
+
+Đợi một lúc trong khi bộ cài đặt đang cài Python vào
+![Done](https://user-images.githubusercontent.com/31346263/210932484-10035e7b-3e68-4ade-997b-0533db25e7ee.png)
+
+Giờ Python đã ở trên máy tính của bạn :Đ
+
+### Cài đặt Visual Studio Code
+Sau khi đã cài đặt Python, nó đã đi kèm cho chúng ta trình chỉnh sửa code đơn giản nen bạn có thể bỏ qua bước này, nhưng nếu muốn chỉnh sửa giao diện và thuận tiện khi code hơn thì nên cài Visual Studio Code

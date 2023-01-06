@@ -19,7 +19,7 @@ Kiến thức đơn giản hóa về ngôn ngữ lập trình bậc cao Python �
 
 ## 1. Khái niệm chung về Python
 ### Python là gì?
-Python là một ngôn ngữ lập trình bậc cao được sáng lập bởi Guido van Rossum, ra lần đầu vào 1991.
+Python là một ngôn ngữ lập trình bậc cao, sử dụng **trình thông dịch**, được sáng lập bởi Guido van Rossum, ra lần đầu vào 1991.
 ### Python khác so với Pascal những gì?
 Mặc dù đều là ngôn ngữ lập trình bậc cao, nhưng Python có nhiều ưu điểm hơn so với Pascal:
 - Có cấu trúc sử dụng ngôn ngữ Tiếng Anh nhiều hơn.
@@ -27,3 +27,7 @@ Mặc dù đều là ngôn ngữ lập trình bậc cao, nhưng Python có nhi�
 - Không phải khai báo biến trước khi viết.
 - Sử dụng cấu trúc dễ hiểu, dễ hình dung hơn Pascal.
 - Tính vận dụng cao mà không cần phải bỏ nhiều công sức khi viết.
+
+Nhưng không thể không kể đến một số nhược điểm:
+- Vì là một ngôn ngữ lập trình sử dụng trình thông dịch nên tốc độ xử lí của Python sẽ chậm hơn RẤT NHIỀU so với Pascal.
+- Sử dụng cấu trúc cách hàng, phân chia bậc của Python, không cẩn thận sẽ bị sai.

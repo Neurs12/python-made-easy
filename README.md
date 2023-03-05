@@ -7,27 +7,43 @@ Kiến thức đơn giản hóa về ngôn ngữ lập trình bậc cao Python �
 <details>
   <summary><h3>Ngôn ngữ lập trình bậc thấp & bậc cao</h3></summary>
   <h4>Ngôn ngữ lập trình bậc thấp:</h4>
-  <p>- Là một ngôn ngữ lập trình liên quan chặt chẽ đến phần cứng máy tính.</p>
-  <p>- Ví dụ: Assembly,... Hoặc thậm chí là mã nhị phân.</p>
+  <p>
+    - Là một ngôn ngữ lập trình liên quan chặt chẽ đến phần cứng máy tính.<br>
+    - Ví dụ: Assembly,... Hoặc thậm chí là mã nhị phân.
+  </p>
   <h4>Ngôn ngữ lập trình bậc cao:</h4>
-  <p>- Là một ngôn ngữ lập trình được tối ưu cú pháp, sử dụng các câu lệnh gần gũi với người viết hơn.</p>
-  <p>- Ví dụ: <b>Python</b>, <i>Pascal</i>, C++,...</p>
+  <p>
+    - Là một ngôn ngữ lập trình được tối ưu cú pháp, sử dụng các câu lệnh gần gũi với người viết hơn.<br>
+    - Ví dụ: <b>Python</b>, <i>Pascal</i>, C++,...
+  </p>
   <h4>Quan hệ: Khi chạy ngôn ngữ ngôn ngữ bậc cao, nó sẽ được chuyển sang 1 ngôn ngữ bậc thấp để ra lệnh cho máy tính hoạt động.</h4>
   <img src="https://user-images.githubusercontent.com/31346263/210920816-ab25bc9c-e9ba-43c8-a912-25fe65eb2d21.png"/>
 </details>
 <details>
   <summary><h3>Trình biên dịch & thông dịch</h3></summary>
   <h4>Trình biên dịch:</h4>
-  <p>- Chuyển tất cả dòng code thành một chương trình và có thể chạy.</p>
-  <p>- Nhanh về thời gian chạy chương trình, chậm về thời gian dịch.</p>
+  <p>
+    - Chuyển tất cả dòng code thành một chương trình và có thể chạy.<br>
+    - Nhanh về thời gian chạy chương trình, chậm về thời gian dịch.
+  </p>
   <h4>Trình thông dịch:</h4>
-  <p>- Chuyển từng dòng code được đưa vào.</p>
-  <p>- Chậm về thời gian chạy, nhanh về thời gian dịch.</p>
+  <p>
+    - Chuyển từng dòng code được đưa vào.<br>
+    - Chậm về thời gian chạy, nhanh về thời gian dịch.</p>
 </details>
 
 ## II. Khái niệm chung về Python
 <details>
   <summary><h3>Python là gì? Python khác so với Pascal những gì?</h3></summary>
+  <h4>Python là một ngôn ngữ lập trình bậc cao, sử dụng **trình thông dịch**, được sáng lập bởi Guido van Rossum, ra mắt lần đầu vào 1991.</h4>
+  <p>
+    Mặc dù đều là ngôn ngữ lập trình bậc cao, nhưng Python có nhiều ưu điểm hơn so với Pascal:<br>
+    - Có cấu trúc sử dụng ngôn ngữ Tiếng Anh nhiều hơn.<br>
+    - Dễ hiểu và khó bị rối.<br>
+    - Không phải khai báo biến trước khi viết.<br>
+    - Sử dụng cấu trúc dễ hiểu, dễ hình dung hơn Pascal.<br>
+    - Tính vận dụng cao mà không cần phải bỏ nhiều công sức khi viết.
+  </p>
 </details>
 
 ## III. Lập trình với Python
@@ -38,8 +54,6 @@ Kiến thức đơn giản hóa về ngôn ngữ lập trình bậc cao Python �
 ## 0.1. Khái niệm về ngôn ngữ lập trình
 
 ## 1. Khái niệm chung về Python
-### Python là gì?
-Python là một ngôn ngữ lập trình bậc cao, sử dụng **trình thông dịch**, được sáng lập bởi Guido van Rossum, ra lần đầu vào 1991.
 ### Python khác so với Pascal những gì?
 Mặc dù đều là ngôn ngữ lập trình bậc cao, nhưng Python có nhiều ưu điểm hơn so với Pascal:
 - Có cấu trúc sử dụng ngôn ngữ Tiếng Anh nhiều hơn.

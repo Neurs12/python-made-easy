@@ -1,13 +1,13 @@
-# PyME
-Kiến thức đơn giản hóa về ngôn ngữ lập trình bậc cao Python ở sách Tin học 10 mới
+# Python Made Easy
+Kiến thức đơn giản hóa về ngôn ngữ lập trình bậc cao Python ở sách Tin học 10 mới.
 
 ## 0.1. Khái niệm về ngôn ngữ lập trình
 ### Ngôn ngữ lập trình bậc thấp:
 - Là một ngôn ngữ lập trình liên quan chặt chẽ đến phần cứng máy tính.
 - Ví dụ: Assembly,... Hoặc thậm chí là mã nhị phân.
 ### Ngôn ngữ lập trình bậc cao:
-- Là một ngôn ngữ lập trình nhưng được dơn giản hóa, sử dụng các câu lệnh, cú pháp gần gũi với người viết hơn.
-- Ví dụ: **Python**, Pascal, C++,...
+- Là một ngôn ngữ lập trình được tối ưu cú pháp, sử dụng các câu lệnh gần gũi với người viết hơn.
+- Ví dụ: **Python**, *Pascal*, C++,...
 ![Ví dụ quan hệ](https://user-images.githubusercontent.com/31346263/210920816-ab25bc9c-e9ba-43c8-a912-25fe65eb2d21.png)
 ## 0.2. Trình biên dịch, trình thông dịch:
 ### Trình biên dịch:

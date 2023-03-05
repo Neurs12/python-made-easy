@@ -1,6 +1,17 @@
 # Python Made Easy
 Kiến thức đơn giản hóa về ngôn ngữ lập trình bậc cao Python ở sách Tin học 10 mới.
 
+# Các chương:
+### 0. Khái niệm về ngôn ngữ lập trình
+- Ngôn ngữ lập trình bậc thấp & bậc cao
+- Trình biên dịch & thông dịch
+
+### 1. Khái niệm chung về Python
+- Python là gì? Python khác so với Pascal những gì?
+
+### 2. Lập trình với Python
+
+
 ## 0.1. Khái niệm về ngôn ngữ lập trình
 ### Ngôn ngữ lập trình bậc thấp:
 - Là một ngôn ngữ lập trình liên quan chặt chẽ đến phần cứng máy tính.
